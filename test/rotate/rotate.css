@@ -1,0 +1,11 @@
+.rot {
+	-webkit-transition: -webkit-transform 2s ease;
+	-webkit-transform: rotate(-90deg);
+}
+
+.els {
+	width: 200px;
+	margin-top: 400px;
+	margin-left: -500px;
+	padding-left: 600px;	
+}
